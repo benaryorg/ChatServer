@@ -33,7 +33,6 @@ public class Client extends Thread
     {
         try
         {
-
             String in;
             while((in=reader.readLine())!=null)
             {
